@@ -8,5 +8,5 @@ title: "Welcome to our slide deck!"
 {: .center}
 
 __Just call me captain!__ 
-:rocket
+:rocket:
 
