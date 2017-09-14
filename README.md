@@ -31,6 +31,9 @@ Please take a moment to complete the class survey at: https://goo.gl/v2eUxs.
 - [The Two Stage Commit](https://services.github.com/on-demand/images/two-stage-commit-a.jpg)
 - [Reset Modes](https://services.github.com/on-demand/images/reset-modes.jpg)
 
+### Favorite web
+-[Git work page](https://github.com/works-with)
+
 ### What's Next?
 
 After you have completed this course, you are probably wondering where to go from here:
