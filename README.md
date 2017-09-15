@@ -25,6 +25,8 @@ Please take a moment to complete the class survey at: https://goo.gl/v2eUxs.
 - [git-scm](https://git-scm.com)
 - [GitSchool - Visualizing Git](http://git-school.github.io/visualizing-git/)
 - [LearnGitBranching](http://learngitbranching.js.org/?NODEMO)
+- [Splitting Subfolders into New Repositories](https://help.github.com/articles/splitting-a-subfolder-out-into-a-new-repository/)
+- [Git LFS](https://git-lfs.github.com/)
 
 ### Class Images
 - [Git Configuration Levels](https://services.github.com/on-demand/images/config-levels.jpg)
