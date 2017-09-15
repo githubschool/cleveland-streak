@@ -1,3 +1,5 @@
+$ Author:  Yudong Fang
+
 # Practice on conflict merge
 
 Yudong write this line
